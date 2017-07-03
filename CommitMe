@@ -2,6 +2,10 @@ This is a sample file to test some git actions with Eclipse
 
 -This represent my second commit in this file !
 
+<<<<<<< HEAD
 -This my Third commit
 
 This my four commit
+=======
+-This represent my third commit on this file !
+>>>>>>> branch 'MyFirstBranch' of https://github.com/zahiris/testOfRepo.git
